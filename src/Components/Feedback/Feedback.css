@@ -1,0 +1,46 @@
+.main-feedback-div{
+    height: 100vh;
+background-color: rgb(204, 204, 204);
+}
+.top-headings{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.feedback-input{
+    font-size: 20px;
+    border: none;
+    box-shadow: 0px 0px 10px;
+    border-radius: 20px;
+    text-align: left;
+    width: 80%;
+    padding: 20px;
+    height: 50vh;
+}
+.feedback-submit{
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: #fff ;
+    width: 22%;
+    height: 7vh;
+    font-size: 22px;
+}
+.feedback-submit:hover{
+    background-color: #fff;
+    color: blue;
+}
+.feedback-submit-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.feedback-input-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}

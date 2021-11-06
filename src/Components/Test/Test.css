@@ -1,0 +1,13 @@
+.testContainer{
+    display: flex;
+}
+.questionsContainer{
+    flex: 9;
+    border: 1px solid lightblue;
+    height: calc(100vh - 50px);
+}
+.qnumContainer{
+    flex: 3;
+    border: 1px solid lightblue;
+    height: calc(100vh - 50px);
+}

@@ -1,0 +1,57 @@
+
+.second{
+    margin-top: 4%;
+    margin-bottom: 10%;
+}
+.numbox{
+    margin:4.5%;
+    width:16%;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 100%;
+    background-color: rgb(38, 37, 146);
+}
+.numbox:hover{
+    background-color: #fff;
+    color:rgb(38, 37, 146);
+    border: solid 3px rgb(38, 37, 146);;
+}
+.buttondiv{
+    margin-top: 10%;
+    margin-left: 4.5%;
+}
+.countbtn{
+    font-size: 130%;
+    font-weight: 900;
+}
+.visbtn{
+    margin:4.5%;
+    width:16%;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 100%;
+    color: #fff;
+    background-color: rgb(38, 37, 146);
+}
+.notvisbtn{
+    margin:4.5%;
+    width:16%;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 100%;
+    color: #fff;
+    background-color: rgb(9, 114, 36);
+}
+.markbtn{
+    margin:4.5%;
+    width:16%;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    font-size: 100%;
+    color: #fff;
+    background-color: rgb(190, 46, 2);
+}

@@ -1,0 +1,27 @@
+.categoryContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.question{
+    margin: 10px;
+}
+.questionWrapper{
+    padding: 20px;
+}
+.options{
+    margin: 10px;
+}
+.option{
+    margin: 10px 0;
+}
+.btns{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn{
+    padding: 10px 15px;
+}
